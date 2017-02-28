@@ -1,0 +1,10 @@
+{
+  "extends" : [ "eslint:recommended" ],
+  "env"     : { "es6": true, "browser": true },
+  "globals" : {
+    "PIXI"      : false,
+    "App"       : false,
+    "Keyboard"  : false,
+    "SpaceShip" : false
+  }
+}
