@@ -5,6 +5,7 @@
     "PIXI"      : false,
     "App"       : false,
     "Keyboard"  : false,
-    "SpaceShip" : false
+    "SpaceShip" : false,
+    "utils"     : false
   }
 }
